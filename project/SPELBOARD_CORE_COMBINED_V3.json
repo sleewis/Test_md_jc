@@ -1,0 +1,245 @@
+{
+  "dataset": "SPELBOARD_CORE_COMBINED",
+  "records": [
+    {
+      "id": "A1",
+      "tag": "#GEVOEL",
+      "actie": "Herinner oorsprong en eenheid",
+      "naam": "Atlantis"
+    },
+    {
+      "id": "A2",
+      "tag": "#GEVOEL",
+      "actie": "Activeer scheppingskracht",
+      "naam": "Awaken to Magic"
+    },
+    {
+      "id": "A3",
+      "tag": "#GEVOEL",
+      "actie": "Gebruik innerlijke kracht en bescherming",
+      "naam": "Drakenmagie"
+    },
+    {
+      "id": "A4",
+      "tag": "#GEVOEL",
+      "actie": "Herstel verbinding in liefde",
+      "naam": "Liefde"
+    },
+    {
+      "id": "A5",
+      "tag": "#GEVOEL",
+      "actie": "Verhoog bewustzijnsniveau",
+      "naam": "Higher Consciousness"
+    },
+    {
+      "id": "A6",
+      "tag": "#GEVOEL",
+      "actie": "Handel vanuit eenvoud en speelsheid",
+      "naam": "Kinderen"
+    },
+    {
+      "id": "A7",
+      "tag": "#GEVOEL",
+      "actie": "Werk met zuivere energie en structuur",
+      "naam": "Kristalmagie"
+    },
+    {
+      "id": "A8",
+      "tag": "#GEVOEL",
+      "actie": "Zet intentie direct om in creatie",
+      "naam": "Kwantumcreatie"
+    },
+    {
+      "id": "A9",
+      "tag": "#GEVOEL",
+      "actie": "Neem verantwoordelijkheid in samenwerking",
+      "naam": "Leiderschap"
+    },
+    {
+      "id": "A10",
+      "tag": "#GEVOEL",
+      "actie": "Vertraag en voel",
+      "naam": "Onderwaterwereld"
+    },
+    {
+      "id": "A11",
+      "tag": "#GEVOEL",
+      "actie": "Volg intuïtieve leiding",
+      "naam": "Gids"
+    },
+    {
+      "id": "A12",
+      "tag": "#GEVOEL",
+      "actie": "Houd ruimte en stabiliteit",
+      "naam": "Spaceholder"
+    },
+    {
+      "id": "A13",
+      "tag": "#GEVOEL",
+      "actie": "Activeer zielsherinnering",
+      "naam": "Ziel"
+    },
+    {
+      "id": "A14",
+      "tag": "#GEVOEL",
+      "actie": "Draag kennis over",
+      "naam": "Teacher"
+    },
+    {
+      "id": "A15",
+      "tag": "#GEVOEL",
+      "actie": "Beweeg bewust door tijd en ruimte",
+      "naam": "Travel"
+    },
+    {
+      "id": "A16",
+      "tag": "#GEVOEL",
+      "actie": "Integreer ervaring en leer",
+      "naam": "De Val"
+    },
+    {
+      "id": "A17",
+      "tag": "#GEVOEL",
+      "actie": "Gebruik eerdere kennis",
+      "naam": "Vorig Leven"
+    },
+    {
+      "id": "A18",
+      "tag": "#GEVOEL",
+      "actie": "Begrijp en structureer inzicht",
+      "naam": "Wetenschap"
+    },
+    {
+      "id": "T1",
+      "tag": "#VERSTAND",
+      "actie": "Start zelfverfijning",
+      "naam": "Ruwe Steen"
+    },
+    {
+      "id": "T2",
+      "tag": "#VERSTAND",
+      "actie": "Streef naar innerlijke voltooiing",
+      "naam": "Perfecte Steen"
+    },
+    {
+      "id": "T3",
+      "tag": "#VERSTAND",
+      "actie": "Breng balans in tijd en energie",
+      "naam": "24-Inch Maat"
+    },
+    {
+      "id": "T4",
+      "tag": "#VERSTAND",
+      "actie": "Bescherm je kernwaarden",
+      "naam": "Ark van het Verbond"
+    },
+    {
+      "id": "T5",
+      "tag": "#VERSTAND",
+      "actie": "Sta vernieuwing en groei toe",
+      "naam": "Acacia"
+    },
+    {
+      "id": "T6",
+      "tag": "#VERSTAND",
+      "actie": "Bewaar je grenzen",
+      "naam": "Zwaard van de Wachter"
+    },
+    {
+      "id": "T7",
+      "tag": "#VERSTAND",
+      "actie": "Verwijder wat niet meer dient",
+      "naam": "Hamer"
+    },
+    {
+      "id": "T8",
+      "tag": "#VERSTAND",
+      "actie": "Zoek helderheid en inzicht",
+      "naam": "Het Licht"
+    },
+    {
+      "id": "T9",
+      "tag": "#VERSTAND",
+      "actie": "Handel met integriteit",
+      "naam": "Loodlijn"
+    },
+    {
+      "id": "T10",
+      "tag": "#VERSTAND",
+      "actie": "Blijf bewust en aanwezig",
+      "naam": "Alziend Oog"
+    },
+    {
+      "id": "T11",
+      "tag": "#VERSTAND",
+      "actie": "Creëer verbinding en harmonie",
+      "naam": "Troffel"
+    },
+    {
+      "id": "T12",
+      "tag": "#VERSTAND",
+      "actie": "Aanvaard vergankelijkheid",
+      "naam": "Gebroken Zuil"
+    },
+    {
+      "id": "T13",
+      "tag": "#VERSTAND",
+      "actie": "Breng plicht en verlangen in balans",
+      "naam": "Passer en Winkelhaak"
+    },
+    {
+      "id": "T14",
+      "tag": "#VERSTAND",
+      "actie": "Groei stap voor stap",
+      "naam": "Ladder"
+    },
+    {
+      "id": "T15",
+      "tag": "#VERSTAND",
+      "actie": "Sta stevig in balans en kracht",
+      "naam": "Zuilen"
+    },
+    {
+      "id": "T16",
+      "tag": "#VERSTAND",
+      "actie": "Werk met zuivere intentie",
+      "naam": "Schort"
+    },
+    {
+      "id": "T17",
+      "tag": "#VERSTAND",
+      "actie": "Eer verbinding en verantwoordelijkheid",
+      "naam": "Verbindingskoord"
+    },
+    {
+      "id": "T18",
+      "tag": "#VERSTAND",
+      "actie": "Gebruik je middelen bewust",
+      "naam": "Werktuigen"
+    },
+    {
+      "id": "T19",
+      "tag": "#VERSTAND",
+      "actie": "Behandel iedereen gelijkwaardig",
+      "naam": "Waterpas"
+    },
+    {
+      "id": "T20",
+      "tag": "#VERSTAND",
+      "actie": "Breng licht en schaduw in balans",
+      "naam": "Zon en Maan"
+    },
+    {
+      "id": "T21",
+      "tag": "#VERSTAND",
+      "actie": "Aanvaard dualiteit",
+      "naam": "Mozaïekvloer"
+    },
+    {
+      "id": "T22",
+      "tag": "#VERSTAND",
+      "actie": "Bouw je innerlijke structuur",
+      "naam": "Tempel"
+    }
+  ]
+}
